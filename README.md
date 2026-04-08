@@ -1,6 +1,7 @@
 # 📊 Growth Intelligence Pipeline — HackNU 2026
+<img width="1904" height="791" alt="image" src="https://github.com/user-attachments/assets/2ad80d79-980f-4bf7-b074-5402f8a03be5" />
 
-> **Special Prize — HackNU 2026 · Growth Engineering Track**
+
 
 An automated competitive intelligence system that reverse-engineers Claude's viral growth patterns from Reddit and Hacker News, then displays findings on a live auto-refreshing dashboard.
 
